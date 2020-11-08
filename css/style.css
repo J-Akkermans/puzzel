@@ -12,9 +12,9 @@ body {
 
 }
 
-/* #puzzle:hover {
+#puzzle:hover {
 	margin-left: 400px;
-} */
+}
 
 .topleft {
 	position: absolute;
@@ -155,9 +155,171 @@ img:nth-of-type(20){
 /* Rij 3 */
 
 img:nth-of-type(21){
-	margin-left: 1000px;
+	position: absolute;
+	top: 162px;
+    left: 0px;
 }
 
 img:nth-of-type(22){
-	margin-left: 1000px;
+	position: absolute;
+	bottom: 163px;
+    left: 51px;
+}
+
+img:nth-of-type(23){
+	position: absolute;
+	bottom: 163px;
+    left: 133px;
+}
+
+img:nth-of-type(24){
+	position: absolute;
+	bottom: 163px;
+	left: 190px;
+}
+
+img:nth-of-type(25){
+	position: absolute;
+	bottom: 163px;
+	left: 240px;
+}
+
+img:nth-of-type(26){
+	position: absolute;
+	bottom: 163px;
+	right: 222px;
+}
+
+img:nth-of-type(27){
+	position: absolute;
+	bottom: 163px;
+	right: 153px;
+}
+
+img:nth-of-type(28){
+	position: absolute;
+	bottom: 163px;
+	right: 87px;
+}
+
+img:nth-of-type(29){
+	position: absolute;
+	bottom: 163px;
+	right: 36px;
+}
+
+
+img:nth-of-type(30){
+	position: absolute;
+	bottom: 163px;
+	right: 0px;
+}
+
+/* rij 4 */
+img:nth-of-type(31){
+	position: absolute;
+	bottom: 91px;
+	left: 0px;
+}
+
+img:nth-of-type(32){
+	position: absolute;
+	bottom: 59px;
+    left: 76px;
+}
+
+img:nth-of-type(33){
+	position: absolute;
+	bottom: 46px;
+	left: 127px;
+}
+
+img:nth-of-type(34){
+	position: absolute;
+	bottom: 66px;
+    left: 182px;
+}
+img:nth-of-type(35){
+	position: absolute;
+    bottom: 45px;
+    left: 250px;
+}
+img:nth-of-type(36){
+	position: absolute;
+    bottom: 65px;
+    right: 235px;
+}
+
+img:nth-of-type(37){
+	position: absolute;
+	bottom: 74px;
+    right: 141px;
+}
+
+img:nth-of-type(38){
+	position: absolute;
+	bottom: 47px;
+    right: 97px;
+}
+
+img:nth-of-type(39){
+	position: absolute;
+	bottom: 28px;
+    right: 57px;
+}
+
+img:nth-of-type(40){
+	position: absolute;
+	bottom: 59px;
+    right: 0px;
+}
+
+
+/* Rij 5 */
+
+img:nth-of-type(42){
+	position: absolute;
+    left: 76px;
+	bottom: 0px;
+}
+
+img:nth-of-type(43){
+	position: absolute;
+    left: 127px;
+	bottom: 0px;
+}
+img:nth-of-type(44){
+	position: absolute;
+    left: 182px;
+	bottom: 0px;
+}
+
+img:nth-of-type(45){
+	position: absolute;
+    left: 250px;
+	bottom: 0px;
+}
+
+img:nth-of-type(46){
+	position: absolute;
+    right: 235px;
+	bottom: 0px;
+}
+
+img:nth-of-type(47){
+	position: absolute;
+	right: 141px;
+	bottom: 0px;
+}
+
+img:nth-of-type(48){
+	position: absolute;
+	right: 97px;
+	bottom: 0px;
+}
+
+img:nth-of-type(49){
+	position: absolute;
+	right: 57px;
+	bottom: 0px;
 }
