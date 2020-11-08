@@ -109,36 +109,50 @@ img:nth-of-type(13){
 
 img:nth-of-type(14){
 	position: absolute;
-	top: 66px;
-    left: 133px;
+	top: 92px;
+    left: 190px;
 }
 
 
 img:nth-of-type(15){
-	margin-left: 1000px;
+	position: absolute;
+	top: 64px;
+    left: 240px;
 }
 
 
 img:nth-of-type(16){
-	margin-left: 1000px;
+	position: absolute;
+	top: 110px;
+    right: 222px;
 }
 
 
 img:nth-of-type(17){
-	margin-left: 1000px;
+	position: absolute;
+	top: 126px;
+    right: 153px;
 }
 
 img:nth-of-type(18){
-	margin-left: 1000px;
+	position: absolute;
+	top: 121px;
+    right: 87px;
 }
 
 img:nth-of-type(19){
-	margin-left: 1000px;
+	position: absolute;
+	top: 150px;
+    right: 36px;
 }
 
 img:nth-of-type(20){
-	margin-left: 1000px;
+	position: absolute;
+	top: 129px;
+    right: 0px;
 }
+
+/* Rij 3 */
 
 img:nth-of-type(21){
 	margin-left: 1000px;
